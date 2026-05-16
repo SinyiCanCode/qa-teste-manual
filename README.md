@@ -49,6 +49,3 @@ qa-teste-manual/
 
 ---
 
-## Sobre o autor
-
-Francisco Lima — QA em formação. Portfolio: [github.com/SEU_USUARIO](https://github.com/SEU_USUARIO)
